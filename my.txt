@@ -1,2 +1,3 @@
-Git is a version control system.
+Git is a version control system of mine.
+my name is Noah.
 Git is free software.
